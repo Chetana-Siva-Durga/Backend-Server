@@ -1,0 +1,12 @@
+21:06:2025	23:40:51	8a93b5c0-daa3-498d-aeb4-46699195de6c	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:41:22	29880639-48bf-40b3-a375-56528384c286	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:41:51	5b9e7e5b-8879-4148-a20c-d4af39fd6cc9	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:43:46	d89506c9-eb62-4cf3-96a9-b6469f00a03c	Error: Cannot set headers after they are sent to the client
+23:06:2025	19:24:40	1153a402-59ee-4120-8c3e-04f2b4d8461a	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:25:23	9cb48cb0-2668-4c3c-87e3-64c968822f10	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:27:24	13f27ed1-cef8-444e-8dcc-dee76ed362f2	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:29:18	a155a243-7fb6-4199-9efd-822a0a7fae16	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:29:19	4097a051-4538-4beb-9fb1-43178e80eb6f	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:29:53	97358b1d-030c-4d14-be5e-e96daf3fd333	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:33:26	9a7e580c-1fe0-4f4c-8e8a-e4972d795ad0	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	19:36:25	8b04ae9e-c1ba-4507-bd1e-b02296c1a728	SyntaxError: Expected ':' after property name in JSON at position 10 (line 3 column 7)
